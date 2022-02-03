@@ -2,6 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://naughtymonsta.com/cn/blogs/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://naughtymonsta.com/blogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://naughtymonsta.com/cn/blogs/"
+                />
+  </url><url>
+    <loc>https://naughtymonsta.com/cn/blogs/pages/about/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://naughtymonsta.com/blogs/pages/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://naughtymonsta.com/cn/blogs/pages/about/"
+                />
+  </url><url>
+    <loc>https://naughtymonsta.com/cn/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://naughtymonsta.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://naughtymonsta.com/cn/"
+                />
+  </url><url>
+    <loc>https://naughtymonsta.com/cn/naughty-nomads/</loc>
+    <lastmod>2022-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://naughtymonsta.com/naughty-nomads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://naughtymonsta.com/cn/naughty-nomads/"
+                />
+  </url><url>
+    <loc>https://naughtymonsta.com/cn/naughty-nomads/pages/about/</loc>
+    <lastmod>2022-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://naughtymonsta.com/naughty-nomads/pages/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://naughtymonsta.com/cn/naughty-nomads/pages/about/"
+                />
+  </url><url>
     <loc>https://naughtymonsta.com/cn/naughty-monsta/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -32,24 +107,10 @@
                 href="https://naughtymonsta.com/cn/naughty-monsta/pages/about/"
                 />
   </url><url>
-    <loc>https://naughtymonsta.com/cn/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://naughtymonsta.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://naughtymonsta.com/cn/"
-                />
-  </url><url>
     <loc>https://naughtymonsta.com/cn/naughty-monsta/posts/</loc>
     <lastmod>2021-08-16T11:27:19+08:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -63,7 +124,8 @@
   </url><url>
     <loc>https://naughtymonsta.com/cn/the-stories-of-us/stories/</loc>
     <lastmod>2021-08-16T11:27:19+08:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -73,6 +135,21 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://naughtymonsta.com/cn/the-stories-of-us/stories/"
+                />
+  </url><url>
+    <loc>https://naughtymonsta.com/cn/the-stories-of-us/</loc>
+    <lastmod>2021-08-16T11:27:19+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://naughtymonsta.com/the-stories-of-us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://naughtymonsta.com/cn/the-stories-of-us/"
                 />
   </url><url>
     <loc>https://naughtymonsta.com/cn/naughty-monsta/posts/my-first-post/</loc>
@@ -103,21 +180,6 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://naughtymonsta.com/cn/the-stories-of-us/stories/my-first-post/"
-                />
-  </url><url>
-    <loc>https://naughtymonsta.com/cn/the-stories-of-us/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://naughtymonsta.com/the-stories-of-us/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://naughtymonsta.com/cn/the-stories-of-us/"
                 />
   </url><url>
     <loc>https://naughtymonsta.com/cn/the-stories-of-us/pages/about/</loc>
@@ -251,6 +313,20 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://naughtymonsta.com/cn/tags/"
+                />
+  </url><url>
+    <loc>https://naughtymonsta.com/cn/naughty-nomads/posts/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://naughtymonsta.com/naughty-nomads/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://naughtymonsta.com/cn/naughty-nomads/posts/"
                 />
   </url>
 </urlset>

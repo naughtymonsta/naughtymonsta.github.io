@@ -2,6 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://naughtymonsta.com/blogs/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://naughtymonsta.com/cn/blogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://naughtymonsta.com/blogs/"
+                />
+  </url><url>
+    <loc>https://naughtymonsta.com/blogs/pages/about/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://naughtymonsta.com/cn/blogs/pages/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://naughtymonsta.com/blogs/pages/about/"
+                />
+  </url><url>
+    <loc>https://naughtymonsta.com/naughty-nomads/posts/how-to-travel-to-indonesia-in-2022/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://naughtymonsta.com/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://naughtymonsta.com/cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://naughtymonsta.com/"
+                />
+  </url><url>
+    <loc>https://naughtymonsta.com/naughty-nomads/posts/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://naughtymonsta.com/cn/naughty-nomads/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://naughtymonsta.com/naughty-nomads/posts/"
+                />
+  </url><url>
+    <loc>https://naughtymonsta.com/naughty-nomads/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://naughtymonsta.com/cn/naughty-nomads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://naughtymonsta.com/naughty-nomads/"
+                />
+  </url><url>
+    <loc>https://naughtymonsta.com/naughty-nomads/pages/about/</loc>
+    <lastmod>2022-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://naughtymonsta.com/cn/naughty-nomads/pages/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://naughtymonsta.com/naughty-nomads/pages/about/"
+                />
+  </url><url>
     <loc>https://naughtymonsta.com/naughty-monsta/pages/about/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -15,21 +110,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://naughtymonsta.com/naughty-monsta/pages/about/"
-                />
-  </url><url>
-    <loc>https://naughtymonsta.com/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://naughtymonsta.com/cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://naughtymonsta.com/"
                 />
   </url><url>
     <loc>https://naughtymonsta.com/naughty-monsta/</loc>
@@ -79,7 +159,8 @@
   </url><url>
     <loc>https://naughtymonsta.com/naughty-monsta/posts/</loc>
     <lastmod>2021-08-16T11:27:19+08:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -93,7 +174,8 @@
   </url><url>
     <loc>https://naughtymonsta.com/the-stories-of-us/stories/</loc>
     <lastmod>2021-08-16T11:27:19+08:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"

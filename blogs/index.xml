@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Naughty Monsta</title>
+    <link>https://naughtymonsta.com/blogs/</link>
+    <description>Recent content in Blogs on Naughty Monsta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://naughtymonsta.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogs</title>
+      <link>https://naughtymonsta.com/blogs/pages/about/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://naughtymonsta.com/blogs/pages/about/</guid>
+      <description>Naughty Nomads Blog </description>
+    </item>
+    
+  </channel>
+</rss>

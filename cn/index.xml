@@ -5,7 +5,25 @@
     <link>https://naughtymonsta.com/cn/</link>
     <description>Recent content on 淘气怪兽</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://naughtymonsta.com/cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://naughtymonsta.com/cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客</title>
+      <link>https://naughtymonsta.com/cn/blogs/pages/about/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://naughtymonsta.com/cn/blogs/pages/about/</guid>
+      <description>淘气游民博客 </description>
+    </item>
+    
+    <item>
+      <title>关于淘气游民</title>
+      <link>https://naughtymonsta.com/cn/naughty-nomads/pages/about/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://naughtymonsta.com/cn/naughty-nomads/pages/about/</guid>
+      <description>Being Naughty all around the world!</description>
+    </item>
+    
     <item>
       <title>关于淘气怪兽</title>
       <link>https://naughtymonsta.com/cn/naughty-monsta/pages/about/</link>
